@@ -1,13 +1,12 @@
 module.exports = {
     globals: {
-      __PROJECTNAME__: true,
+        __PROJECTNAME__: true,
     },
-    extends: ["sifu/vue"],
+    extends: ['sifu/vue'],
     rules: {
-      "no-var": 0,
+        'no-var': 0,
     },
     parserOptions: {
-      parser: "babel-eslint",
+        parser: 'babel-eslint',
     },
-  };
-  
+}
