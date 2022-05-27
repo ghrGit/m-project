@@ -7,7 +7,7 @@
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
     "prettier": "prettier",
-    "eslint": "eslint"
+    "lint": "eslint"
   },
   "dependencies": {
     "@vue/runtime-dom": "^3.2.36",
