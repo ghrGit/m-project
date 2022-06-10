@@ -1,0 +1,11 @@
+import Vue, { VNode } from "vue";
+
+declare module "*.tsx" {
+    export default Vue;
+}
+
+declare global {
+    namespace JSX {
+
+    }
+}

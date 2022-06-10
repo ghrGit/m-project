@@ -23,3 +23,4 @@ You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/
     解决方法：
     在设置中搜索 vetur，找到 Vetur › Validation: Script
     取消勾选 Validate js/ts in
+- "unplugin-vue-define-options"
